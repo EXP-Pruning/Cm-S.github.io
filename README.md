@@ -1,6 +1,6 @@
 # Cm-S.github.io
-<h1 align="center">Hi 👋, I'm Jiaxin Chen</h1>
-<h3 align="center">A graduate student from China</h3>
+<h1 align="center">Hi 👋, I'm Sc M </h1>
+<h3 align="center">A college teacher from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkchenjx&label=Profile%20views&color=0e75b6&style=flat" alt="kkchenjx" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 📫 How to reach me **chenjiaxin_ty@163.com**
+- 📫 How to reach me **。。。**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
